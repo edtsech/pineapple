@@ -1,4 +1,4 @@
-# 3 Types of Thinking
+# 3 Types of Thinking (v0.1)
 
 I’ve noticed 3 types of thinking:
 * Focused thinking
