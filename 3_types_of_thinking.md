@@ -23,5 +23,5 @@ Chaotic thinking is by far is the greediest one. If you don’t train your brain
 2. Writing as thinking (journaling)
 3. Speaking as thinking (in front of a mirror for instance)
 
-## Useful links:
+## Links:
 * [Flow state](https://en.wikipedia.org/wiki/Flow_(psychology))
