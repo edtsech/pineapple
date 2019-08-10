@@ -1,9 +1,4 @@
-# Ethics fairy tale
-
-Todo: 
-- [ ] Название
-
-Short story about miss-understood golden rule of ethics.
+# Empathic rule of ethics
 
 Тигра и пяточек хотели навестить Пуха. Тот был болен и не мог даже подняться с кровати.
 На улице был сильный дождь, огромные темные облака превращали день практически в ночь.
